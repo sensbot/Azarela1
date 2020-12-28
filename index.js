@@ -18,7 +18,7 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '🔰_MyBot_🔰',
+    A187: '🔰_SENSI BOT🤖_🔰',
     instagram: 'https://instagram.com/nur.fdhl_',
     nomer: 'wa.me/6283102650464',
     aktif: 'TERGANTUNG OWNER',
