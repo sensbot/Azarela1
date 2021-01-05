@@ -18,7 +18,7 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: 'KUNTULLL',
+    A187: 'MeMek',
     instagram: 'https://instagram.com/sensi.edtz_',
     nomer: 'APA CUK',
     aktif: 'TERSERAH KALIAN MAU JAM BRP AKTIFNYA',
@@ -824,3 +824,89 @@ case 'filmanime':
            break
    }
 })
+const  ada  =  menunggu  koneksi . isOnWhatsApp  ( gg )
+konsol . log ( ada ) ;
+samb . sendMessage ( id  , ` $ { gg }  $ { ada ? " ada " : " tidak ada " } di WhatsApp` ,  MessageType . teks )
+}
+
+lain  jika  ( teks  ==  'assalamualaikum' ) {
+samb . sendMessage ( id ,  '3aalaikumsalam, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'salam' ) {
+samb . sendMessage ( id ,  'Waalaikumsalam, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'asalamualaikum' ) {
+samb . sendMessage ( id ,  'Waalaikumsalam, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Assalamualaikum' ) {
+samb . sendMessage ( id ,  'Waalaikumsalam, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'p' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'P' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Halo' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Asu' ) {
+samb . sendMessage ( id ,  'Lu Asw'  , MessageType . teks ) ;
+}
+lain  jika  ( teks  ==  '#owner' ) {
+samb . sendMessage ( id ,  'Owner XBOT wa.me/+6282334297175'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'affis' ) {
+samb . sendMessage ( id ,  'Aku BOT nya XBOT'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'audio' ) {
+samb . sendMessage ( id ,  'pacar owner  ihh ' , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'bangsat' ) {
+samb . sendMessage ( id ,  'toxic terdeteksi'  , MessageType . teks ) ;
+}
+lain  jika  ( teks  ==  'Ngentod' ) {
+samb . sendMessage ( id ,  'Pengin ngentod?'  , MessageType . text ) ;
+}
+else  if  ( text  ==  'Anjing' ) {
+samb . sendMessage ( id ,  'Jangan toxic anjing'  , MessageType . text ) ;
+}
+else  if  ( text  ==  'Bacot' ) {
+samb . sendMessage ( id ,  'lu bacot_-'  , MessageType . teks ) ;
+}
+else  if  ( text  ==  'Test' ) {
+samb . sendMessage ( id ,  'Test 1,2,3 ketik #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Hai' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Woi' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Eoy' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+else  if  ( text  ==  'Hai' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Gan' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Kak' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+else  if  ( text  ==  'Bro' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+else  if  ( text  ==  'Min' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+else  if  ( text  ==  'Sayang' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
+else  if  ( text  ==  'I love u' ) {
+samb . sendMessage ( id ,  'love you too'  , MessageType . text ) ;
+}
+lain  jika  ( teks  ==  'Mas' ) {
+samb . sendMessage ( id ,  'Ya ?, Ketik # menu / # info / # donasi Contoh #menu'  , MessageType . text ) ;
+}
