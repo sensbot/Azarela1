@@ -18,8 +18,8 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: 'Azarela',
-    nomer: 'wa.me/+62089652574706',
+    A187: 'KUNTUL',
+    nomer: 'NGENTOD',
     aktif: 'jika ada kuota',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
